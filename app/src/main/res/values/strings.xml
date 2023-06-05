@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">mapApp2</string>
+    <string name="loadLocationsButton">Load Locations</string>
+    <string-array name="point_sets">
+        <item>Set 1</item>
+        <item>Set 2</item>
+    </string-array>
+
 </resources>
